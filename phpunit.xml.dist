@@ -1,0 +1,6 @@
+<phpunit bootstrap="vendor/silverstripe/cms/tests/bootstrap.php" colors="true">
+    <testsuite name="recipe-content-blocks">
+        <directory>vendor/dnadesign/silverstripe-elemental/tests</directory>
+        <directory>vendor/silverstripe/elemental-blocks/tests</directory>
+    </testsuite>
+</phpunit>
