@@ -3,10 +3,10 @@
   "child-stability-inherit": true,
   "dependency-constraint": "exact",
   "vendors": [
-    "silverstripe",
-    "dnadesign"
+    "silverstripe"
   ],
   "upgrade-only": [
+    "dnadesign/silverstripe-elemental",
     "silverstripe/recipe-cms"
   ],
   "exclude": [
