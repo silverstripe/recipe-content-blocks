@@ -1,0 +1,15 @@
+{
+  "github-slug": "silverstripe/recipe-content-blocks",
+  "child-stability-inherit": true,
+  "dependency-constraint": "exact",
+  "vendors": [
+    "silverstripe",
+    "dnadesign"
+  ],
+  "upgrade-only": [
+    "silverstripe/recipe-cms"
+  ],
+  "exclude": [
+    "silverstripe/recipe-plugin"
+  ]
+}
