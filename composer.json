@@ -18,7 +18,9 @@
         "dnadesign/silverstripe-elemental-userforms": "Add integration logic for Elemental and Userforms"
     },
     "extra": {
-        "project-files": [],
+        "project-files": [
+            "mysite/*"
+        ],
         "branch-alias": {
             "dev-master": "1.x-dev"
         }
