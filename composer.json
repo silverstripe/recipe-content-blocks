@@ -6,8 +6,9 @@
     "license": "BSD-3-Clause",
     "require": {
         "silverstripe/recipe-plugin": "^1",
-        "silverstripe/recipe-cms": "1.1.x-dev",
-        "dnadesign/silverstripe-elemental": "2.x-dev",
+        "silverstripe/recipe-cms": "^1.2",
+        "silverstripe/versioned-admin": "^1.0",
+        "dnadesign/silverstripe-elemental": "3.0.x-dev",
         "silverstripe/elemental-blocks": "1.0.x-dev"
     },
     "require-dev": {
@@ -19,7 +20,7 @@
     },
     "extra": {
         "project-files": [
-            "mysite/*"
+            "app/*"
         ],
         "branch-alias": {
             "dev-master": "1.x-dev"
