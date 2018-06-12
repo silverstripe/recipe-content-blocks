@@ -7,7 +7,8 @@
   ],
   "upgrade-only": [
     "dnadesign/silverstripe-elemental",
-    "silverstripe/recipe-cms"
+    "silverstripe/recipe-cms",
+    "silverstripe/versioned-admin"
   ],
   "exclude": [
     "silverstripe/recipe-plugin"

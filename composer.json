@@ -9,7 +9,8 @@
         "silverstripe/recipe-cms": "^1.2",
         "silverstripe/versioned-admin": "^1.0",
         "dnadesign/silverstripe-elemental": "3.0.x-dev",
-        "silverstripe/elemental-blocks": "1.0.x-dev"
+        "silverstripe/elemental-fileblock": "1.0.x-dev",
+        "silverstripe/elemental-bannerblock": "1.0.x-dev"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.7"
