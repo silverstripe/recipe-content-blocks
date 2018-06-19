@@ -7,8 +7,10 @@ This includes the following core SilverStripe and CWP modules:
  * [silverstripe/recipe-cms](https://github.com/silverstripe/recipe-cms): Recipe containing CMS, versioned, asset-admin, etc
  * [dnadesign/silverstripe-elemental](https://github.com/dnadesign/silverstripe-elemental): Adds content "elements" to
    your pages
- * [silverstripe/elemental-blocks](https://github.com/silverstripe/silverstripe-elemental-blocks): Adds some standard
-   content blocks
+ * [silverstripe/elemental-fileblock](https://github.com/silverstripe/silverstripe-elemental-fileblock): A file block
+   for the dnadesign/silverstripe-elemental module
+ * [silverstripe/elemental-bannerblock](https://github.com/silverstripe/silverstripe-elemental-bannerblock): A banner
+   block for the dnadesign/silverstripe-elemental module
 
 This can be either added to an existing project or used as a project base for creating a basic CWP install.
 
@@ -17,7 +19,7 @@ This can be either added to an existing project or used as a project base for cr
 You can create a project using Composer:
 
 ```
-composer create-project silverstripe/recipe-content-blocks ./myproject ^1
+composer create-project silverstripe/recipe-content-blocks ./myproject ^2
 ```
 
 ## More information
