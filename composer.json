@@ -6,9 +6,9 @@
     "license": "BSD-3-Clause",
     "require": {
         "silverstripe/recipe-plugin": "^1",
-        "silverstripe/recipe-cms": "^1.2",
+        "silverstripe/recipe-cms": "^4.2",
         "silverstripe/versioned-admin": "^1.0",
-        "dnadesign/silverstripe-elemental": "3.0.x-dev",
+        "dnadesign/silverstripe-elemental": "^3.0",
         "silverstripe/elemental-fileblock": "1.0.x-dev",
         "silverstripe/elemental-bannerblock": "1.0.x-dev"
     },
