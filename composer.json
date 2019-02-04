@@ -16,7 +16,6 @@
         "phpunit/phpunit": "^5.7"
     },
     "suggest": {
-        "dnadesign/silverstripe-elemental-subsites": "Add integration logic for Elemental and Subsites",
         "dnadesign/silverstripe-elemental-userforms": "Add integration logic for Elemental and Userforms"
     },
     "extra": {
