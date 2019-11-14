@@ -2,6 +2,9 @@ language: php
 
 dist: xenial
 
+services:
+  - mysql
+
 env:
   global:
     - COMPOSER_ROOT_VERSION=2.5.x-dev
