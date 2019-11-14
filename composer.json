@@ -6,7 +6,7 @@
     "license": "BSD-3-Clause",
     "require": {
         "silverstripe/recipe-plugin": "^1",
-        "silverstripe/recipe-cms": "^4.5@dev",
+        "silverstripe/recipe-cms": "^4.5",
         "dnadesign/silverstripe-elemental": "4.2.x-dev",
         "silverstripe/elemental-fileblock": "2.0.x-dev",
         "silverstripe/elemental-bannerblock": "2.0.x-dev"
@@ -20,10 +20,7 @@
     "extra": {
         "project-files": [
             "app/*"
-        ],
-        "branch-alias": {
-            "dev-master": "2.x-dev"
-        }
+        ]
     },
     "config": {
         "process-timeout": 600
