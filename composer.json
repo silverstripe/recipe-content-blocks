@@ -7,7 +7,7 @@
     "require": {
         "silverstripe/recipe-plugin": "^1",
         "silverstripe/recipe-cms": "^4.5",
-        "dnadesign/silverstripe-elemental": "4.2.x-dev",
+        "dnadesign/silverstripe-elemental": "4.3.x-dev",
         "silverstripe/elemental-fileblock": "2.0.x-dev",
         "silverstripe/elemental-bannerblock": "2.0.x-dev"
     },
