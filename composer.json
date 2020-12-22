@@ -12,7 +12,7 @@
         "silverstripe/elemental-bannerblock": "2.x-dev"
     },
     "require-dev": {
-        "phpunit/phpunit": "^5.7"
+        "sminnee/phpunit": "^5.7"
     },
     "suggest": {
         "dnadesign/silverstripe-elemental-userforms": "Add integration logic for Elemental and Userforms"
