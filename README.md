@@ -1,6 +1,6 @@
 ## SilverStripe Content Blocks recipe
 
-[![Build Status](https://travis-ci.org/silverstripe/recipe-content-blocks.svg?branch=master)](https://travis-ci.org/silverstripe/recipe-content-blocks)
+[![Build Status](https://api.travis-ci.com/silverstripe/recipe-content-blocks.svg?branch=2)](https://travis-ci.com/silverstripe/recipe-content-blocks)
 
 This includes the following core SilverStripe and CWP modules:
 
