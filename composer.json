@@ -7,9 +7,9 @@
     "require": {
         "silverstripe/recipe-plugin": "^1",
         "silverstripe/recipe-cms": "^4",
-        "dnadesign/silverstripe-elemental": "4.x-dev",
-        "silverstripe/elemental-fileblock": "2.x-dev",
-        "silverstripe/elemental-bannerblock": "2.x-dev"
+        "dnadesign/silverstripe-elemental": "4.6.x-dev",
+        "silverstripe/elemental-fileblock": "2.1.x-dev",
+        "silverstripe/elemental-bannerblock": "2.2.x-dev"
     },
     "require-dev": {
         "sminnee/phpunit": "^5.7"
