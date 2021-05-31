@@ -5,5 +5,4 @@ import:
 
 env:
   global:
-    - REQUIRE_EXTRA="silverstripe-themes/simple:^3"
     - PHPUNIT_SUITE="recipe-content-blocks"
