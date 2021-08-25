@@ -1,7 +1,7 @@
 {
   "github-slug": "silverstripe/recipe-content-blocks",
   "child-stability-inherit": false,
-  "dependency-constraint": "exact",
+  "dependency-constraint": "loose",
   "vendors": [
     "silverstripe",
     "dnadesign"
