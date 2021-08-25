@@ -1,8 +1,8 @@
-## SilverStripe Content Blocks recipe
+## Silverstripe CMS Content Blocks recipe
 
 [![Build Status](https://api.travis-ci.com/silverstripe/recipe-content-blocks.svg?branch=2)](https://travis-ci.com/silverstripe/recipe-content-blocks)
 
-This includes the following core SilverStripe and CWP modules:
+This includes the following core and supported Silverstripe CMS modules:
 
  * [silverstripe/recipe-cms](https://github.com/silverstripe/recipe-cms): Recipe containing CMS, versioned, asset-admin, etc
  * [dnadesign/silverstripe-elemental](https://github.com/dnadesign/silverstripe-elemental): Adds content "elements" to
@@ -12,17 +12,17 @@ This includes the following core SilverStripe and CWP modules:
  * [silverstripe/elemental-bannerblock](https://github.com/silverstripe/silverstripe-elemental-bannerblock): A banner
    block for the dnadesign/silverstripe-elemental module
 
-This can be either added to an existing project or used as a project base for creating a basic CWP install.
+This can be either added to an existing project or used as a project base for creating a basic install.
 
 ## Get started
 
 You can create a project using Composer:
 
-```
+```bash
 composer create-project silverstripe/recipe-content-blocks ./myproject ^2
 ```
 
 ## More information
 
 See the [recipe plugin](https://github.com/silverstripe/recipe-plugin) page for instructions on how
-SilverStripe recipes work.
+Silverstripe CMS recipes work.
