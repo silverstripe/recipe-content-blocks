@@ -6,10 +6,10 @@
     "license": "BSD-3-Clause",
     "require": {
         "silverstripe/recipe-plugin": "^1",
-        "silverstripe/recipe-cms": "4.9.x-dev",
-        "dnadesign/silverstripe-elemental": "4.7.x-dev",
-        "silverstripe/elemental-fileblock": "2.2.x-dev",
-        "silverstripe/elemental-bannerblock": "2.3.x-dev"
+        "silverstripe/recipe-cms": "~4.9.0@rc",
+        "dnadesign/silverstripe-elemental": "~4.7.0@stable",
+        "silverstripe/elemental-fileblock": "~2.2.0@rc",
+        "silverstripe/elemental-bannerblock": "~2.3.0@rc"
     },
     "require-dev": {
         "sminnee/phpunit": "^5.7"
