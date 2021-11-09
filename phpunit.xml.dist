@@ -1,7 +1,9 @@
 <phpunit bootstrap="vendor/silverstripe/cms/tests/bootstrap.php" colors="true">
-    <testsuite name="recipe-content-blocks">
-        <directory>vendor/dnadesign/silverstripe-elemental/tests</directory>
-        <directory>vendor/silverstripe/elemental-fileblock/tests</directory>
-        <directory>vendor/silverstripe/elemental-bannerblock/tests</directory>
-    </testsuite>
+    <testsuites>
+        <testsuite name="recipe-content-blocks">
+            <directory>vendor/dnadesign/silverstripe-elemental/tests</directory>
+            <directory>vendor/silverstripe/elemental-fileblock/tests</directory>
+            <directory>vendor/silverstripe/elemental-bannerblock/tests</directory>
+        </testsuite>
+    </testsuites>
 </phpunit>
