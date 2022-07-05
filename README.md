@@ -1,6 +1,6 @@
 ## Silverstripe CMS Content Blocks recipe
 
-[![Build Status](https://api.travis-ci.com/silverstripe/recipe-content-blocks.svg?branch=2)](https://travis-ci.com/silverstripe/recipe-content-blocks)
+[![CI](https://github.com/silverstripe/recipe-content-blocks/actions/workflows/ci.yml/badge.svg)](https://github.com/silverstripe/recipe-content-blocks/actions/workflows/ci.yml)
 
 This includes the following core and supported Silverstripe CMS modules:
 
