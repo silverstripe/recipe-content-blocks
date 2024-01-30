@@ -13,7 +13,9 @@
         "silverstripe/elemental-bannerblock": "3.1.x-dev"
     },
     "require-dev": {
-        "phpunit/phpunit": "^9.6"
+        "phpunit/phpunit": "^9.6",
+        "silverstripe/standards": "^1",
+        "phpstan/extension-installer": "^1.3"
     },
     "suggest": {
         "dnadesign/silverstripe-elemental-userforms": "Add integration logic for Elemental and Userforms"
