@@ -10,4 +10,6 @@ jobs:
     name: CI
     uses: silverstripe/gha-ci/.github/workflows/ci.yml@v1
     with:
-      composer_require_extra: silverstripe/recipe-testing:^3
+      # require the following in ci.yml rather than composer.json require-dev specifically because unlike
+      # regular modules, require-dev will get installed to projects during `composer create-project silverstripe/recipe-testing`
+      composer_require_extra: silverstripe/recipe-testing:^4
